@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1370007112 source:c:\users\bento\desktop\brainhack2\brainhack\brain.c
+	<stdio.h>
+	<unistd.h>
+	"brain.h"
+
+1370006938 c:\users\bento\desktop\brainhack2\brainhack\brain.h
+	<windows.h>
+
+1536710803 source:c:\users\bento\desktop\brainhack2\brainhack\plot.c
+	<stdio.h>
+
+1536875140 source:c:\users\bento\desktop\brainhack2\brainhack\serial.c
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<signal.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"brain.h"
+	"plot.h"
+
+1345501997 c:\users\bento\desktop\brainhack2\brainhack\plot.h
+
+1370010712 source:c:\users\bento\desktop\eafit\brainhack\brain.c
+	<stdio.h>
+	<unistd.h>
+	"brain.h"
+
+1370010538 c:\users\bento\desktop\eafit\brainhack\brain.h
+	<windows.h>
+
+1536714403 source:c:\users\bento\desktop\eafit\brainhack\plot.c
+	<stdio.h>
+
+1544500810 source:c:\users\bento\desktop\eafit\brainhack\serial.c
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<signal.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"brain.h"
+	"plot.h"
+
+1345505597 c:\users\bento\desktop\eafit\brainhack\plot.h
+
+1575922505 source:c:\users\bento\desktop\eafit\brainwaves\brainhack\brain.c
+	<stdio.h>
+	<unistd.h>
+	"brain.h"
+
+1370006938 c:\users\bento\desktop\eafit\brainwaves\brainhack\brain.h
+	<windows.h>
+
+1536710803 source:c:\users\bento\desktop\eafit\brainwaves\brainhack\plot.c
+	<stdio.h>
+
+1575920548 source:c:\users\bento\desktop\eafit\brainwaves\brainhack\serial.c
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<signal.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"brain.h"
+	"plot.h"
+
+1345501997 c:\users\bento\desktop\eafit\brainwaves\brainhack\plot.h
+
